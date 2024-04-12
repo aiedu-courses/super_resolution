@@ -1,2 +1,3 @@
-# super_resolution
-Курс "Super Resolution"
+# Курс "Super Resolution"
+
+...
