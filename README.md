@@ -25,6 +25,6 @@
 
 ## Домашние задания
 - [Урок 2.2: Данные](ht1_data.ipynb).
-- [Урок 3.1: CNN](ht2_cnn.ipynb).
-- [Урок 3.2: GAN](ht3_gan.ipynb).
+- [Урок 3.2: CNN](ht2_cnn.ipynb).
+- [Урок 3.3: GAN](ht3_gan.ipynb).
 
