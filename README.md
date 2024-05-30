@@ -28,4 +28,5 @@
 - [Урок 3.2: CNN](ht2_cnn.ipynb).
 - [Урок 3.3: GAN](ht3_gan.ipynb).
 - [Урок 3.4: Transformer](ht4_transformer.ipynb).
+- [Урок 3.5: Diffusion](ht5_sd.ipynb).
 
